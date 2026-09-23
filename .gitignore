@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.env
+
+# Temporary artifacts
+temp_downloads/
+*.zip
+__pycache__/
+*.pyc
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
